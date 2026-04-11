@@ -40,27 +40,3 @@ project/
 * CSS3
 * JavaScript
 * Three.js (CDN)
-
----
-
-## ✏️ Customization
-
-To change name or seat number, edit this line in `script.js`:
-
-```javascript
-const text = 'Your Name\nYour Seat No';
-```
-
----
-
-## 🌐 Deployment (GitHub Pages)
-
-1. Upload project to GitHub
-2. Go to **Settings → Pages**
-3. Select branch → `main`
-4. Open the generated link
-
----
-
-
-If you want, I can also make a **fancy README with screenshots and badges** or help you deploy it live.
